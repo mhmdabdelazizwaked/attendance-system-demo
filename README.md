@@ -11,7 +11,7 @@ The full version includes:
 
 > ⚠️ This is a showcase for design and layout only.
 
-
+> ⚠️ هذا المشروع للعرض فقط من حيث التصميم والشكل.
 ## 📄 License
 
 See [LICENSE](LICENSE) file.
