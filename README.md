@@ -14,7 +14,7 @@ The full version includes:
 ## 🖼️ Screenshots
 
 ![Interface](https://raw.githubusercontent.com/mhmdabdelazizwaked/attendance-system-demo/screenshots/screenshots/1.png)
-]
+
 
 
 ## 📄 License
