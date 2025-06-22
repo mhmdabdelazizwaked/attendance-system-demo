@@ -13,7 +13,8 @@ The full version includes:
 
 ## 🖼️ Screenshots
 
-![Interface](https://github.com/mhmdabdelazizwaked/attendance-system-demo/commit/4214caa89c6ceb9cc352313e8b3a8226cacfb640)
+![Interface][Interface](https://raw.githubusercontent.com/mhmdabdelazizwaked/attendance-system-demo/screenshots/screenshots/1.png)
+
 ## 📄 License
 
 See [LICENSE](LICENSE) file.
